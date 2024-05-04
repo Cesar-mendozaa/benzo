@@ -46,11 +46,13 @@ nav li:hover {
     border-radius: 10px
 }
 
-.foto-burrito {
+
+.foto-producto {
     padding: 10px;
     border-radius: 50%;
     width: auto;
     margin: auto;
+    height: 200px;
 
 }
 
@@ -68,7 +70,7 @@ nav li:hover {
     font-size: 20px;
 }
 
-.producto {
+.foto-producto {
     width: 100%;
     margin: 0;
     padding: 0;
