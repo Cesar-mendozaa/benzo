@@ -14,10 +14,17 @@
     <link rel="stylesheet" type="text/css" href="./css/inicioSecion.css">
 </head>
 <body>
-    <h1>Inicio de sesion</h1>
-
-    <input type="email" name="email" placeholder="Correo electronico" required>
-    <input type="password" name="password" placeholder="Contraseña" required>
-    <input type="submit" value="Iniciar sesión">
+    <form class="login-form">
+        <div> 
+            <img class="LogoSesion" src="./css/logos/benzo-logo.png" alt="">
+        </div>
+          
+        <input type="email" class="login-username" autofocus="true" required="true" placeholder="Email" />
+        <input type="password" class="login-password" required="true" placeholder="Password" />
+        <input type="submit" name="Login" value="Login" class="login-submit"/>
+      </form>
+      <a href="#" class="login-forgot-pass">forgot password?</a>
+      <div class="underlay-photo"></div>
+      <div class="underlay-black"></div> 
 </body>
 </html>
