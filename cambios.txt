@@ -1,0 +1,9 @@
+git status (rojo)
+
+git add .
+
+git status (verde)
+
+git commit -m "txt"
+
+git push
