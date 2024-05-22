@@ -14,10 +14,14 @@ body {
     height: 90px; /* Ajusta esto según el tamaño de tu logo */
 
 }
-
+.apartado{
+    width: 20px;
+    margin-top: auto;
+    padding: auto;
+}
 .contenedor {
-    max-width: 1200px;
-    padding: 10px;
+    max-width: 1500px;
+    padding: 50px;
     margin: auto;
     display: flex;
     justify-content: space-between;
@@ -72,8 +76,7 @@ nav li:hover {
 
 .tarjeta {
     height: 40%;
-    margin-top: 0;
-    margin-right: auto;
+    margin-right:auto;
     text-align: center;
 }
 
