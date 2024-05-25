@@ -6,16 +6,16 @@ function logear() {
     if (user == "21540071" && pass == "cesarmendoza") {
         
         window.location = "index.html";
-    }
 
-    if (user == "21540069" && pass == "jdtorres") {
+        if (user == "21540069" && pass == "jdtorres") {
         
-        window.location = "index.html";
-    }
+            window.location = "index.html";
 
-    if (user == "21540068" && pass == "marcoantonio") {
-        
-        window.location = "index.html";
+            if (user == "21540068" && pass == "marcoantonio") {
+            
+                window.location = "index.html";
+            }
+        }
     }
 
     else {
