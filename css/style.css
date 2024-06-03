@@ -163,13 +163,11 @@ nav li:hover {
 }
 
 .carrito .carrito-items {
-    display: flex;
     align-items: center;
-    /* justify-content: space-between; */
-    position: relative;
     border-bottom: 1px solid #666;
-    padding: 20px;
+    padding: 10px;
 }
+
 .carrito .carrito-item img{
     margin-right: 20px;
 }
