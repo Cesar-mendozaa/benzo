@@ -2,9 +2,9 @@
 
 class Database {
     private $hostname = "localhost";
-    private $database = "carrito-compras";
+    private $database = "compras-benzo";
     private $username = "root";
-    private $password = "";
+    private $password = "perro321";
     private $charset = "utf8";
 
     funcion conectar()
@@ -26,6 +26,5 @@ class Database {
 
 
 }
-
 
 ?>

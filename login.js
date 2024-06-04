@@ -5,7 +5,7 @@ function logear() {
 
     if (user == "21540071" && pass == "cesarmendoza") {
         
-        window.location = "index.html";
+        window.location = "index.php";
 
         if (user == "21540069" && pass == "jdtorres") {
         
