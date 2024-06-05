@@ -50,7 +50,34 @@ $resultado = $sql->fetchAll(PDO::FETCH_ASSOC);
                         <div class="tarjeta-producto">
                             <img class="foto-producto" src="https://lh3.googleusercontent.com/proxy/kVM_-admjTNRNckY_vLFti-Dhh4EIz8psPEpyi3_HxD5c_TdbP2OFoQKBTGetBzmpPJV2w8Z9vznUnxjKGfeT-dKFijiHjrwLk8ltzqurB05R4C-K_PyKIrWR8frJ-g" alt="Burrito">
                             <button class="agregar-carrito">+</button>
-                            <span class="texto-tarjeta">Burrito de frijoles</span>
+                            <span class="texto-tarjeta">Burrito de winnie</span>
+                        </div>
+                        <span class="precio-item">$22.000</span>
+                    </div>
+
+                    <div class="item">
+                        <div class="tarjeta-producto">
+                            <img class="foto-producto" src="https://lh3.googleusercontent.com/proxy/kVM_-admjTNRNckY_vLFti-Dhh4EIz8psPEpyi3_HxD5c_TdbP2OFoQKBTGetBzmpPJV2w8Z9vznUnxjKGfeT-dKFijiHjrwLk8ltzqurB05R4C-K_PyKIrWR8frJ-g" alt="Burrito">
+                            <button class="agregar-carrito">+</button>
+                            <span class="texto-tarjeta">Burrito de asado</span>
+                        </div>
+                        <span class="precio-item">$22.000</span>
+                    </div>
+
+                    <div class="item">
+                        <div class="tarjeta-producto">
+                            <img class="foto-producto" src="https://lh3.googleusercontent.com/proxy/kVM_-admjTNRNckY_vLFti-Dhh4EIz8psPEpyi3_HxD5c_TdbP2OFoQKBTGetBzmpPJV2w8Z9vznUnxjKGfeT-dKFijiHjrwLk8ltzqurB05R4C-K_PyKIrWR8frJ-g" alt="Burrito">
+                            <button class="agregar-carrito">+</button>
+                            <span class="texto-tarjeta">Burrito de discada</span>
+                        </div>
+                        <span class="precio-item">$22.000</span>
+                    </div>
+
+                    <div class="item">
+                        <div class="tarjeta-producto">
+                            <img class="foto-producto" src="https://lh3.googleusercontent.com/proxy/kVM_-admjTNRNckY_vLFti-Dhh4EIz8psPEpyi3_HxD5c_TdbP2OFoQKBTGetBzmpPJV2w8Z9vznUnxjKGfeT-dKFijiHjrwLk8ltzqurB05R4C-K_PyKIrWR8frJ-g" alt="Burrito">
+                            <button class="agregar-carrito">+</button>
+                            <span class="texto-tarjeta">Burrito de picadillo</span>
                         </div>
                         <span class="precio-item">$22.000</span>
                     </div>
@@ -63,30 +90,51 @@ $resultado = $sql->fetchAll(PDO::FETCH_ASSOC);
                         </div>
                         <span class="precio-item">$22.000</span>
                     </div>
-
+                    <!-- Repetir para otros productos -->
+                </div>
+                <h2>Frituras</h2>
+                <div class="menu-Productos">
                     <div class="item">
                         <div class="tarjeta-producto">
-                            <img class="foto-producto" src="https://lh3.googleusercontent.com/proxy/kVM_-admjTNRNckY_vLFti-Dhh4EIz8psPEpyi3_HxD5c_TdbP2OFoQKBTGetBzmpPJV2w8Z9vznUnxjKGfeT-dKFijiHjrwLk8ltzqurB05R4C-K_PyKIrWR8frJ-g" alt="Burrito">
+                            <img class="foto-producto" src="./css/fotos_productos/chetos.png" alt="Burrito">
                             <button class="agregar-carrito">+</button>
-                            <span class="texto-tarjeta">Burrito de frijoles</span>
+                            <span class="texto-tarjeta">Chetos</span>
                         </div>
                         <span class="precio-item">$22.000</span>
                     </div>
 
                     <div class="item">
                         <div class="tarjeta-producto">
-                            <img class="foto-producto" src="https://lh3.googleusercontent.com/proxy/kVM_-admjTNRNckY_vLFti-Dhh4EIz8psPEpyi3_HxD5c_TdbP2OFoQKBTGetBzmpPJV2w8Z9vznUnxjKGfeT-dKFijiHjrwLk8ltzqurB05R4C-K_PyKIrWR8frJ-g" alt="Burrito">
+                            <img class="foto-producto" src="./css/fotos_productos/doritos_dinamita.png" alt="Burrito">
                             <button class="agregar-carrito">+</button>
-                            <span class="texto-tarjeta">Burrito de frijoles</span>
+                            <span class="texto-tarjeta">Doritos dinamita</span>
                         </div>
                         <span class="precio-item">$22.000</span>
                     </div>
 
                     <div class="item">
                         <div class="tarjeta-producto">
-                            <img class="foto-producto" src="https://lh3.googleusercontent.com/proxy/kVM_-admjTNRNckY_vLFti-Dhh4EIz8psPEpyi3_HxD5c_TdbP2OFoQKBTGetBzmpPJV2w8Z9vznUnxjKGfeT-dKFijiHjrwLk8ltzqurB05R4C-K_PyKIrWR8frJ-g" alt="Burrito">
+                            <img class="foto-producto" src="./css/fotos_productos/doritos_flaminhot.png" alt="Burrito">
                             <button class="agregar-carrito">+</button>
-                            <span class="texto-tarjeta">Burrito de frijoles</span>
+                            <span class="texto-tarjeta">Doritos flaminhot</span>
+                        </div>
+                        <span class="precio-item">$22.000</span>
+                    </div>
+
+                    <div class="item">
+                        <div class="tarjeta-producto">
+                            <img class="foto-producto" src="./css/fotos_productos/sabritas_adobadas.png" alt="Burrito">
+                            <button class="agregar-carrito">+</button>
+                            <span class="texto-tarjeta">Sabritas adobadas</span>
+                        </div>
+                        <span class="precio-item">$22.000</span>
+                    </div>
+
+                    <div class="item">
+                        <div class="tarjeta-producto">
+                            <img class="foto-producto" src="./css/fotos_productos/sabritas_original.png" alt="Burrito">
+                            <button class="agregar-carrito">+</button>
+                            <span class="texto-tarjeta">Sabritas original</span>
                         </div>
                         <span class="precio-item">$22.000</span>
                     </div>
