@@ -48,7 +48,7 @@ $resultado = $sql->fetchAll(PDO::FETCH_ASSOC);
                 <div class="menu-Productos">
                     <div class="item">
                         <div class="tarjeta-producto">
-                            <img class="foto-producto" src="https://lh3.googleusercontent.com/proxy/kVM_-admjTNRNckY_vLFti-Dhh4EIz8psPEpyi3_HxD5c_TdbP2OFoQKBTGetBzmpPJV2w8Z9vznUnxjKGfeT-dKFijiHjrwLk8ltzqurB05R4C-K_PyKIrWR8frJ-g" alt="Burrito">
+                            <img class="foto-producto" src="https://i.ytimg.com/vi/y_ayp5mIXFQ/maxresdefault.jpg" alt="Burrito">
                             <button class="agregar-carrito">+</button>
                             <span class="texto-tarjeta">Burrito de winnie</span>
                         </div>
@@ -57,7 +57,7 @@ $resultado = $sql->fetchAll(PDO::FETCH_ASSOC);
 
                     <div class="item">
                         <div class="tarjeta-producto">
-                            <img class="foto-producto" src="https://lh3.googleusercontent.com/proxy/kVM_-admjTNRNckY_vLFti-Dhh4EIz8psPEpyi3_HxD5c_TdbP2OFoQKBTGetBzmpPJV2w8Z9vznUnxjKGfeT-dKFijiHjrwLk8ltzqurB05R4C-K_PyKIrWR8frJ-g" alt="Burrito">
+                            <img class="foto-producto" src="https://th.bing.com/th/id/R.694f15b87ccac7473ef570e1f01c3136?rik=7XBSSbEGtui0Lg&riu=http%3a%2f%2fnibblesandfeasts.com%2fwp-content%2fuploads%2f2018%2f03%2fBurrito-1.jpg&ehk=awCCpiK1jzoP9zV19imU2q8sBheN18ACEi9xaUcFKg0%3d&risl=&pid=ImgRaw&r=0" alt="Burrito">
                             <button class="agregar-carrito">+</button>
                             <span class="texto-tarjeta">Burrito de asado</span>
                         </div>
@@ -66,7 +66,7 @@ $resultado = $sql->fetchAll(PDO::FETCH_ASSOC);
 
                     <div class="item">
                         <div class="tarjeta-producto">
-                            <img class="foto-producto" src="https://lh3.googleusercontent.com/proxy/kVM_-admjTNRNckY_vLFti-Dhh4EIz8psPEpyi3_HxD5c_TdbP2OFoQKBTGetBzmpPJV2w8Z9vznUnxjKGfeT-dKFijiHjrwLk8ltzqurB05R4C-K_PyKIrWR8frJ-g" alt="Burrito">
+                            <img class="foto-producto" src="https://th.bing.com/th/id/OIP.Ec-tWYjGuaU5mNgVBhzEQQHaHa?rs=1&pid=ImgDetMain" alt="Burrito">
                             <button class="agregar-carrito">+</button>
                             <span class="texto-tarjeta">Burrito de discada</span>
                         </div>
@@ -75,7 +75,7 @@ $resultado = $sql->fetchAll(PDO::FETCH_ASSOC);
 
                     <div class="item">
                         <div class="tarjeta-producto">
-                            <img class="foto-producto" src="https://lh3.googleusercontent.com/proxy/kVM_-admjTNRNckY_vLFti-Dhh4EIz8psPEpyi3_HxD5c_TdbP2OFoQKBTGetBzmpPJV2w8Z9vznUnxjKGfeT-dKFijiHjrwLk8ltzqurB05R4C-K_PyKIrWR8frJ-g" alt="Burrito">
+                            <img class="foto-producto" src="https://bing.com/th?id=OSK.61774aaf769ce5c4ee8a026f536b28cd" alt="Burrito">
                             <button class="agregar-carrito">+</button>
                             <span class="texto-tarjeta">Burrito de picadillo</span>
                         </div>
